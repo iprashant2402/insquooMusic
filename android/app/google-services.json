@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "447695339808",
+    "project_id": "insquoo-music",
+    "storage_bucket": "insquoo-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447695339808:android:7a35ef5887a6926e1b9745",
+        "android_client_info": {
+          "package_name": "com.insquoomusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447695339808-etrn27ebnf5cgcej2ijl6o2dj76ukp3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insquoomusic",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "447695339808-1un7vntj3ie0aav0a54nructdjj25j4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIZafruji0r8WJ3D2tPYttmp9Okc79ZSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447695339808-1un7vntj3ie0aav0a54nructdjj25j4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
