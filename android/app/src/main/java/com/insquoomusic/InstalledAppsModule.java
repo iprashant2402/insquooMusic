@@ -60,7 +60,7 @@ public class InstalledAppsModule extends ReactContextBaseJavaModule {
 
     @Override
     public String getName() {
-        return "InstalledApps";
+        return "CustomInstalledApps";
     }
 
     @ReactMethod
